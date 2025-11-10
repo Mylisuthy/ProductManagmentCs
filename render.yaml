@@ -16,23 +16,3 @@ services:
         value: SJAkgHHLVc04G44SqoeVnlyBaCQbfS+2RXviyJenKkZG2P6spBQ5jdmtYTQFzs86
       - key: Jwt__Issuer
         value: webProductsApi
-      - key: ConnectionStrings__DefaultConnection
-        # CORRECCIÓN 1: Cadena de conexión manual.
-        value: Server=webproducts-db;Database=productsdb;Uid=root;Pwd=Qwe.123*;
-
-  - type: pserv
-    name: webproducts-db
-    runtime: docker
-    plan: free
-    buildCommand: null
-    startCommand: null
-    # CORRECCIÓN 2: Eliminado healthCheckPath: none
-    envVars:
-      - key: MYSQL_ROOT_PASSWORD
-        value: Qwe.123*
-      - key: MYSQL_DATABASE
-        value: productsdb
-      - key: MYSQL_USER
-        value: root
-      - key: MYSQL_PASSWORD
-        value: Qwe.123*
