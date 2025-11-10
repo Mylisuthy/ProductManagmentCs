@@ -13,7 +13,7 @@ services:
       - key: PORT
         value: 8080
       - key: Jwt__Key
-        value: SjAkghHLVc04G44SqoeVnlyBaCQbfS+2RXviyJenKkZG2P6spBQ5jdmtYTQFzs86
+        value: SJAkgHHLVc04G44SqoeVnlyBaCQbfS+2RXviyJenKkZG2P6spBQ5jdmtYTQFzs86
       - key: Jwt__Issuer
         value: webProductsApi
       - key: ConnectionStrings__DefaultConnection
@@ -25,7 +25,8 @@ services:
     name: webproducts-db
     env: mysql
     plan: free
-    version: 8.0
-    databaseName: productsdb
-    user: root
-    password: Qwe.123*
+    properties:
+      version: 8.0
+      databaseName: productsdb
+      user: root
+      password: Qwe.123*
