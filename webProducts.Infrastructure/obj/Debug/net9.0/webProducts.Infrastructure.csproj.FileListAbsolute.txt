@@ -1,0 +1,15 @@
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\bin\Debug\net9.0\webProducts.Infrastructure.deps.json
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\bin\Debug\net9.0\webProducts.Infrastructure.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\bin\Debug\net9.0\webProducts.Infrastructure.pdb
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\bin\Debug\net9.0\webProducts.Domain.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\bin\Debug\net9.0\webProducts.Domain.pdb
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.AssemblyInfo.cs
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProdu.0C732493.Up2Date
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\refint\webProducts.Infrastructure.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.pdb
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\ref\webProducts.Infrastructure.dll

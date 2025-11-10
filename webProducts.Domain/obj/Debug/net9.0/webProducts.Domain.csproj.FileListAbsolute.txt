@@ -1,0 +1,12 @@
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\bin\Debug\net9.0\webProducts.Domain.deps.json
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\bin\Debug\net9.0\webProducts.Domain.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\bin\Debug\net9.0\webProducts.Domain.pdb
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\obj\Debug\net9.0\webProducts.Domain.csproj.AssemblyReference.cache
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\obj\Debug\net9.0\webProducts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\obj\Debug\net9.0\webProducts.Domain.AssemblyInfoInputs.cache
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\obj\Debug\net9.0\webProducts.Domain.AssemblyInfo.cs
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\obj\Debug\net9.0\webProducts.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\obj\Debug\net9.0\webProducts.Domain.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\obj\Debug\net9.0\refint\webProducts.Domain.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\obj\Debug\net9.0\webProducts.Domain.pdb
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Domain\obj\Debug\net9.0\ref\webProducts.Domain.dll

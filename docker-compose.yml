@@ -1,0 +1,6 @@
+services:
+  webescuela.api:
+    image: webProducts.Api
+    build:
+      context: .
+      dockerfile: webProducts.Api/Dockerfile
