@@ -1,12 +1,12 @@
 services:
   - type: web
     name: webproducts-api
-    env: docker
+    runtime: docker
     plan: free
     branch: main
     region: oregon
     dockerfilePath: ./Dockerfile
-    autoDeploy: true
+    autoDeployTrigger: commit
     envVars:
       - key: ASPNETCORE_ENVIRONMENT
         value: Production
@@ -17,16 +17,24 @@ services:
       - key: Jwt__Issuer
         value: webProductsApi
       - key: ConnectionStrings__DefaultConnection
-        fromDatabase:
+        fromService:
           name: webproducts-db
+          type: pserv
           property: connectionString
 
   - type: pserv
     name: webproducts-db
-    env: mysql
+    runtime: docker
     plan: free
-    properties:
-      version: 8.0
-      databaseName: productsdb
-      user: root
-      password: Qwe.123*
+    buildCommand: null
+    startCommand: null
+    healthCheckPath: none
+    envVars:
+      - key: MYSQL_ROOT_PASSWORD
+        value: Qwe.123*
+      - key: MYSQL_DATABASE
+        value: productsdb
+      - key: MYSQL_USER
+        value: root
+      - key: MYSQL_PASSWORD
+        value: Qwe.123*
