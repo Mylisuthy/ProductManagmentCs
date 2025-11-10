@@ -16,4 +16,3 @@ services:
         value: SJAkgHHLVc04G44SqoeVnlyBaCQbfS+2RXviyJenKkZG2P6spBQ5jdmtYTQFzs86
       - key: Jwt__Issuer
         value: webProductsApi
-    
