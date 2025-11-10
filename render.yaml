@@ -17,10 +17,8 @@ services:
       - key: Jwt__Issuer
         value: webProductsApi
       - key: ConnectionStrings__DefaultConnection
-        fromService:
-          name: webproducts-db
-          type: pserv
-          property: connectionString
+        # CORRECCIÓN 1: Cadena de conexión manual.
+        value: Server=webproducts-db;Database=productsdb;Uid=root;Pwd=Qwe.123*;
 
   - type: pserv
     name: webproducts-db
@@ -28,7 +26,7 @@ services:
     plan: free
     buildCommand: null
     startCommand: null
-    healthCheckPath: none
+    # CORRECCIÓN 2: Eliminado healthCheckPath: none
     envVars:
       - key: MYSQL_ROOT_PASSWORD
         value: Qwe.123*
