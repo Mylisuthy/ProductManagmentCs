@@ -1,0 +1,39 @@
+{
+  "info": {
+    "name": "ProductManager API",
+    "_postman_id": "d0c33f8a-xyz",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Register",
+      "request": {
+        "method": "POST",
+        "header": [{"key": "Content-Type", "value": "application/json"}],
+        "body": { "mode": "raw", "raw": "{\"username\":\"admin\",\"email\":\"admin@mail.com\",\"password\":\"1234\"}" },
+        "url": "{{base_url}}/api/auth/register"
+      }
+    },
+    {
+      "name": "Login",
+      "request": {
+        "method": "POST",
+        "header": [{"key": "Content-Type", "value": "application/json"}],
+        "body": { "mode": "raw", "raw": "{\"emailOrUser\":\"admin@mail.com\",\"password\":\"1234\"}" },
+        "url": "{{base_url}}/api/auth/login"
+      }
+    },
+    {
+      "name": "Create Product",
+      "request": {
+        "method": "POST",
+        "header": [
+          {"key": "Content-Type", "value": "application/json"},
+          {"key": "Authorization", "value": "Bearer {{token}}"}
+        ],
+        "body": { "mode": "raw", "raw": "{\"name\":\"Laptop\",\"description\":\"Pro 14\",\"price\":1200,\"stock\":50}" },
+        "url": "{{base_url}}/api/products"
+      }
+    }
+  ]
+}
