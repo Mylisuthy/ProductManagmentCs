@@ -12,8 +12,8 @@ using webProducts.Infrastructure.Data;
 namespace webProducts.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251111005410_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20251111020618_Test")]
+    partial class Test
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
