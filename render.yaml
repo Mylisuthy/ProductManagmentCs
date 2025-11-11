@@ -5,7 +5,7 @@ services:
     plan: free
     branch: main
     region: oregon
-    dockerfilePath: ./webProducts.Api/Dockerfile
+    dockerfilePath: webProducts.Api/Dockerfile
     autoDeployTrigger: commit
     envVars:
       - key: ASPNETCORE_ENVIRONMENT
