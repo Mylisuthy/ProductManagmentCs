@@ -11,8 +11,12 @@ public static class ServiceCollectionExtensions
 {
     public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
     {
-        var conn = configuration.GetConnectionString("DefaultConnection") ?? "Server=localhost;Database=productsdb;Uid=root;Pwd=root;";
-        services.AddDbContext<AppDbContext>(opt => opt.UseMySql(conn, ServerVersion.AutoDetect(conn)));
+        var localConnectionString = "Host=localhost;Port=5348;Database=productsdb;Username=postgres;Password=Qwe.123*;";
+        
+        var conn = configuration.GetConnectionString("DefaultConnection") ?? localConnectionString;
+        
+        services.AddDbContext<AppDbContext>(opt => opt.UseNpgsql(conn));
+        
         // Repositorios concretos
         services.AddScoped<IUserRepository, UserRepository>();
         services.AddScoped<IProductRepository, ProductRepository>();

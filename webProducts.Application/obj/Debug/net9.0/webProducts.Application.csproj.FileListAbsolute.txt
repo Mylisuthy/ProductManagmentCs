@@ -8,6 +8,7 @@ C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Application\obj\Debug\net
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Application\obj\Debug\net9.0\webProducts.Application.AssemblyInfoInputs.cache
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Application\obj\Debug\net9.0\webProducts.Application.AssemblyInfo.cs
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Application\obj\Debug\net9.0\webProducts.Application.csproj.CoreCompileInputs.cache
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Application\obj\Debug\net9.0\webProducts.Application.sourcelink.json
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Application\obj\Debug\net9.0\webProdu.0B2FC7C3.Up2Date
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Application\obj\Debug\net9.0\webProducts.Application.dll
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Application\obj\Debug\net9.0\refint\webProducts.Application.dll

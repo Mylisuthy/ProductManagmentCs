@@ -13,7 +13,10 @@ services:
       - key: PORT
         value: 8080
       - key: Jwt__Key
-        value: SJAkgHHLVc04G44SqoeVnlyBaCQbfS+2RXviyJenKkZG2P6spBQ5jdmtYTQFzs86
+        value: SjAkghHLVc04G44SqoeVnlyBaCQbfS+2RXviyJenKkZG2P6spBQ5jdmtYTQFzs86
       - key: Jwt__Issuer
         value: webProductsApi
-    
+      - key: ConnectionStrings__DefaultConnection
+        fromDatabase:
+          name: productsdb
+          property: connectionString

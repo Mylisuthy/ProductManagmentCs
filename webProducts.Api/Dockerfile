@@ -26,3 +26,4 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "webProducts.Api.dll"]
+ENV ASPNETCORE_ENVIRONMENT=Production
