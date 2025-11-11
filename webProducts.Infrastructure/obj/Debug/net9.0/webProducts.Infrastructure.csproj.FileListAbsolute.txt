@@ -8,8 +8,11 @@ C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.AssemblyInfo.cs
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.sourcelink.json
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProdu.0C732493.Up2Date
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.dll
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\refint\webProducts.Infrastructure.dll
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.pdb
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\ref\webProducts.Infrastructure.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\bin\Debug\net9.0\webProducts.Infrastructure.runtimeconfig.json
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Infrastructure\obj\Debug\net9.0\webProducts.Infrastructure.genruntimeconfig.cache

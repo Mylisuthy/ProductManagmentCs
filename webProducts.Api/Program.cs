@@ -38,6 +38,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 builder.Services.AddAuthorization();
 
 var app = builder.Build();
+// automatic Migrations
+await app.ApplyMigrationsAsync();
 app.UseSwagger();
 app.UseSwaggerUI();
 

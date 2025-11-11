@@ -40,8 +40,8 @@ C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Micr
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
-C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\MySqlConnector.dll
-C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -131,6 +131,7 @@ C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\obj\Debug\net9.0\webP
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\obj\Debug\net9.0\webProducts.Api.csproj.CoreCompileInputs.cache
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\obj\Debug\net9.0\webProducts.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\obj\Debug\net9.0\webProducts.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\obj\Debug\net9.0\webProducts.Api.sourcelink.json
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Msuthy\Desktop\ProductManagmentCs\webProducts.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
